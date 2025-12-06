@@ -17,7 +17,7 @@ Task08/
 │ ├── appointments.php # Выполненные работы
 │ ├── appointment_form.php
 │ └── appointment_delete.php
-├── db_init.sql # SQL-скрипт инициализации БД
+├── init_db.sql # SQL-скрипт инициализации БД
 └── README.md # Этот файл
 
 ## Установка и запуск
